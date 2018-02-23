@@ -11,7 +11,7 @@ class: segue dataday nobackground
 title: Data is the new oil!
 
 <div class="container-fluid">
-	<div class="col-md-8 col-md-offset-2">
+	<div class="col-md-4 col-md-offset-4">
 		<img class="img-responsive" src="images/bigdata/new_oil.png" alt="NO">
 	</div>
 </div>
@@ -19,7 +19,7 @@ title: Data is the new oil!
 title: Que es Big Data?
 
 <div class="container-fluid">
-	<div class="col-md-8 col-md-offset-2">
+	<div class="col-md-4 col-md-offset-4">
 		<img class="img-responsive" src="images/bigdata/bd1.png" alt="BD1">
 	</div>
 </div>
@@ -28,7 +28,7 @@ title: Que es Big Data?
 title: Que es Big Data?
 
 <div class="container-fluid">
-	<div class="col-md-8 col-md-offset-2">
+	<div class="col-md-4 col-md-offset-4">
 		<img class="img-responsive" src="images/bigdata/bd2.png" alt="BD2">
 	</div>
 </div>
@@ -37,7 +37,7 @@ title: Que es Big Data?
 title: Que es Big Data?
 
 <div class="container-fluid">
-	<div class="col-md-8 col-md-offset-2">
+	<div class="col-md-4 col-md-offset-4">
 		<img class="img-responsive" src="images/bigdata/bd3.png" alt="BD3">
 	</div>
 </div>
@@ -74,7 +74,7 @@ Describir un conjunto de datos en sus cantidades, tiempos, factores, frecuencias
 title: Que es Analytics?
 
 <div class="container-fluid">
-	<div class="col-md-8 col-md-offset-2">
+	<div class="col-md-4 col-md-offset-4">
 		<img class="img-responsive" src="images/bigdata/analytics1.png" alt="A 1">
 	</div>
 </div>
@@ -84,7 +84,7 @@ title: Que es Analytics?
 title: Que es Analytics?
 
 <div class="container-fluid">
-	<div class="col-md-8 col-md-offset-2">
+	<div class="col-md-4 col-md-offset-4">
 		<img class="img-responsive" src="images/bigdata/analytics2.png" alt="A 2">
 	</div>
 </div>
@@ -99,7 +99,7 @@ title: Que es Data Science?
 title: Cual es la diferencia entre BI y Data Science?
 
 <div class="container-fluid">
-	<div class="col-md-8 col-md-offset-2">
+	<div class="col-md-4 col-md-offset-4">
 		<img class="img-responsive" src="images/bigdata/ds_vs_bi.png" alt="DS BI">
 	</div>
 </div>
@@ -108,7 +108,7 @@ title: Cual es la diferencia entre BI y Data Science?
 title: Que necesita un Data Scientist?
 
 <div class="container-fluid">
-	<div class="col-md-8 col-md-offset-2">
+	<div class="col-md-4 col-md-offset-4">
 		<img class="img-responsive" src="images/bigdata/venn.png" alt="Venn">
 	</div>
 </div>
