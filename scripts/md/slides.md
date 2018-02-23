@@ -126,7 +126,8 @@ content_class: flexbox hcenter
 
 <div class="container-fluid">
 <div class="col-md-4">
- Identificar patrones equivocándose lo menor posible. <br>
+ Identificar patrones equivocándose lo menor posible.
+ <P style="page-break-before: always">
 </div>
 	<div class="col-md-4">
 		<img class="img-responsive" src="images/bigdata/ml1.png" alt="ML1" width="400">
