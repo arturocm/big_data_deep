@@ -12,7 +12,7 @@ title: Data is the new oil!
 
 <div class="container-fluid">
 	<div class="col-md-4 col-md-offset-4">
-		<img class="img-responsive" src="images/bigdata/new_oil.png" alt="NO width="400">
+		<img class="img-responsive" src="images/bigdata/new_oil.png" alt="NO" width="400">
 	</div>
 </div>
 ---
