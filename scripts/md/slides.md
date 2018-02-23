@@ -176,7 +176,7 @@ content_class: flexbox vcenter
 <div class="col-md-2">
 </div>
 	<div class="col-md-4">
-		<img class="img-responsive" src="images/bigdata/ml4.png" alt="ML4" width="800">
+		<img class="img-responsive" src="images/bigdata/ml5.png" alt="ML5" width="800">
 	</div>
 </div>
 
