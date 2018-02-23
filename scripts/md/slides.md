@@ -9,11 +9,12 @@ subtitle: Entendiendo buzzwords
 class: segue dataday nobackground
 ---
 title: Data is the new oil!
-content_class: flexbox vcenter
 
-![supply chain routes](images/bigdata/analytics2.png)
-
-
+<div class="container-fluid">
+	<div class="col-md-4 col-md-offset-4">
+		<img class="img-responsive" src="images/bigdata/new_oil.png" alt="NO" width="400">
+	</div>
+</div>
 ---
 title: Que es Big Data?
 
@@ -87,6 +88,7 @@ title: Que es Analytics?
 		<img class="img-responsive" src="images/bigdata/analytics2.png" alt="A 2">
 	</div>
 </div>
+
 
 ---
 title: Que es Data Science?
