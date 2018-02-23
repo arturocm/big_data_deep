@@ -109,7 +109,7 @@ title: Que necesita un Data Scientist?
 
 <div class="container-fluid">
 	<div class="col-md-4 col-md-offset-4">
-		<img class="img-responsive" src="images/bigdata/venn.png" alt="Venn" width="800">
+		<img class="img-responsive" src="images/bigdata/venn.png" alt="Venn" width="400">
 	</div>
 </div>
 
@@ -121,9 +121,16 @@ title: Que es Machine Learning?
 - Dr. Fernando Esponda (ITAM)
 
 ---
-title: Que es Artificial Intelligence?
+title: Cual es el objetivo de Machine Learning?
+content_class: flexbox hcenter
+
+<div class="container-fluid">
+	<div class="col-md-4">
+		<img class="img-responsive" src="images/bigdata/ml1.png" alt="ML1" width="400">
+	</div>
+</div>
 
 ---
-title: Data Science
+title: Big Data Analytics - Deep Dive
 subtitle: Q&A
 class: segue dataday nobackground
