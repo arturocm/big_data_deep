@@ -10,40 +10,37 @@ class: segue dataday nobackground
 ---
 title: Data is the new oil!
 
+<div class="container-fluid">
+	<div class="col-md-8 col-md-offset-2">
+		<img class="img-responsive" src="images/bigdata/new_oil.png" alt="NO">
+	</div>
+</div>
 ---
 title: Que es Big Data?
 
-<div class="col-md-1">
-</div>
-<div class="col-md-10">
-<img class="img-responsive" src="images/bigdata/bd1.png" alt="BD 1">
-</div>
-<div class="col-md-1">
-</div>
-
----
-title: Que es Big Data?
-
-<div class="col-md-1">
-</div>
-<div class="col-md-10">
-<img class="img-responsive" src="images/bigdata/bd2.png" alt="BD 2">
-</div>
-<div class="col-md-1">
+<div class="container-fluid">
+	<div class="col-md-8 col-md-offset-2">
+		<img class="img-responsive" src="images/bigdata/bd1.png" alt="BD1">
+	</div>
 </div>
 
 ---
 title: Que es Big Data?
 
-
-<div class="col-md-1">
-</div>
-<div class="col-md-10">
-<img class="img-responsive" src="images/bigdata/bd3.png" alt="BD 3">
-</div>
-<div class="col-md-1">
+<div class="container-fluid">
+	<div class="col-md-8 col-md-offset-2">
+		<img class="img-responsive" src="images/bigdata/bd2.png" alt="BD2">
+	</div>
 </div>
 
+---
+title: Que es Big Data?
+
+<div class="container-fluid">
+	<div class="col-md-8 col-md-offset-2">
+		<img class="img-responsive" src="images/bigdata/bd3.png" alt="BD3">
+	</div>
+</div>
 ---
 title: Que es Big Data?
 
@@ -76,25 +73,23 @@ Describir un conjunto de datos en sus cantidades, tiempos, factores, frecuencias
 ---
 title: Que es Analytics?
 
-<div class="col-md-1">
-</div>
-<div class="col-md-10">
-<img class="img-responsive" src="images/bigdata/analytics1.png" alt="A 1">
-</div>
-<div class="col-md-1">
+<div class="container-fluid">
+	<div class="col-md-8 col-md-offset-2">
+		<img class="img-responsive" src="images/bigdata/analytics1.png" alt="A 1">
+	</div>
 </div>
 
 ---
 
 title: Que es Analytics?
 
-<div class="col-md-1">
+<div class="container-fluid">
+	<div class="col-md-8 col-md-offset-2">
+		<img class="img-responsive" src="images/bigdata/analytics2.png" alt="A 2">
+	</div>
 </div>
-<div class="col-md-10">
-<img class="img-responsive" src="images/bigdata/analytics2.png" alt="A 2">
-</div>
-<div class="col-md-1">
-</div>
+
+
 ---
 title: Que es Data Science?
 
@@ -103,23 +98,19 @@ title: Que es Data Science?
 ---
 title: Cual es la diferencia entre BI y Data Science?
 
-<div class="col-md-1">
-</div>
-<div class="col-md-10">
-<img class="img-responsive" src="images/bigdata/bi_vs_ds.png" alt="BI vs DS">
-</div>
-<div class="col-md-1">
+<div class="container-fluid">
+	<div class="col-md-8 col-md-offset-2">
+		<img class="img-responsive" src="images/bigdata/ds_vs_bi.png" alt="DS BI">
+	</div>
 </div>
 
 ---
 title: Que necesita un Data Scientist?
 
-<div class="col-md-1">
-</div>
-<div class="col-md-10">
-<img class="img-responsive" src="images/bigdata/venn.png" alt="Venn">
-</div>
-<div class="col-md-1">
+<div class="container-fluid">
+	<div class="col-md-8 col-md-offset-2">
+		<img class="img-responsive" src="images/bigdata/venn.png" alt="Venn">
+	</div>
 </div>
 
 ---

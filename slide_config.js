@@ -2,7 +2,7 @@ var SLIDE_CONFIG = {
   // Slide settings
   settings: {
     title: 'Big Data Analytics',
-    subtitle: 'Intro',
+    subtitle: 'Deep Dive',
     eventInfo: {
       title: 'V1.0',
       date: 'Febrero, 2018'
