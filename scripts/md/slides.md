@@ -125,8 +125,58 @@ title: Cual es el objetivo de Machine Learning?
 content_class: flexbox hcenter
 
 <div class="container-fluid">
+<div class="col-md-4">
+</div>
 	<div class="col-md-4">
 		<img class="img-responsive" src="images/bigdata/ml1.png" alt="ML1" width="400">
+	</div>
+</div>
+
+---
+title: Como lo logra?
+content_class: flexbox hcenter
+
+<div class="container-fluid">
+<div class="col-md-4">
+</div>
+	<div class="col-md-4">
+		<img class="img-responsive" src="images/bigdata/ml2.png" alt="ML2" width="400">
+	</div>
+</div>
+
+---
+title: Algunos usos de ML - Clasificación
+content_class: flexbox vcenter
+
+<div class="container-fluid">
+<div class="col-md-2">
+</div>
+	<div class="col-md-4">
+		<img class="img-responsive" src="images/bigdata/ml3.png" alt="ML3" width="800">
+	</div>
+</div>
+
+---
+title: Algunos usos de ML - Regresion
+content_class: flexbox vcenter
+
+<div class="container-fluid">
+<div class="col-md-2">
+</div>
+	<div class="col-md-4">
+		<img class="img-responsive" src="images/bigdata/ml4.png" alt="ML4" width="800">
+	</div>
+</div>
+
+---
+title: Algunos usos de ML - Clustering
+content_class: flexbox vcenter
+
+<div class="container-fluid">
+<div class="col-md-2">
+</div>
+	<div class="col-md-4">
+		<img class="img-responsive" src="images/bigdata/ml4.png" alt="ML4" width="800">
 	</div>
 </div>
 
