@@ -20,7 +20,7 @@ title: Que es Big Data?
 
 <div class="container-fluid">
 	<div class="col-md-4 col-md-offset-4">
-		<img class="img-responsive" src="images/bigdata/bd1.png" alt="BD1" width="400">
+		<img class="img-responsive" src="images/bigdata/bd1.png" alt="BD1" width="1000">
 	</div>
 </div>
 
@@ -29,7 +29,7 @@ title: Que es Big Data?
 
 <div class="container-fluid">
 	<div class="col-md-4 col-md-offset-4">
-		<img class="img-responsive" src="images/bigdata/bd2.png" alt="BD2" width="400">
+		<img class="img-responsive" src="images/bigdata/bd2.png" alt="BD2" width="1000">
 	</div>
 </div>
 
@@ -38,7 +38,7 @@ title: Que es Big Data?
 
 <div class="container-fluid">
 	<div class="col-md-4 col-md-offset-4">
-		<img class="img-responsive" src="images/bigdata/bd3.png" alt="BD3" width="400">
+		<img class="img-responsive" src="images/bigdata/bd3.png" alt="BD3" width="1000">
 	</div>
 </div>
 ---
@@ -75,7 +75,7 @@ title: Que es Analytics?
 
 <div class="container-fluid">
 	<div class="col-md-4 col-md-offset-4">
-		<img class="img-responsive" src="images/bigdata/analytics1.png" alt="A 1">
+		<img class="img-responsive" src="images/bigdata/analytics1.png" alt="A 1" width="800">
 	</div>
 </div>
 
@@ -85,7 +85,7 @@ title: Que es Analytics?
 
 <div class="container-fluid">
 	<div class="col-md-4 col-md-offset-4">
-		<img class="img-responsive" src="images/bigdata/analytics2.png" alt="A 2">
+		<img class="img-responsive" src="images/bigdata/analytics2.png" alt="A 2" width="800">
 	</div>
 </div>
 
@@ -100,7 +100,7 @@ title: Cual es la diferencia entre BI y Data Science?
 
 <div class="container-fluid">
 	<div class="col-md-4 col-md-offset-4">
-		<img class="img-responsive" src="images/bigdata/ds_vs_bi.png" alt="DS BI">
+		<img class="img-responsive" src="images/bigdata/ds_vs_bi.png" alt="DS BI" width="800">
 	</div>
 </div>
 
@@ -109,7 +109,7 @@ title: Que necesita un Data Scientist?
 
 <div class="container-fluid">
 	<div class="col-md-4 col-md-offset-4">
-		<img class="img-responsive" src="images/bigdata/venn.png" alt="Venn">
+		<img class="img-responsive" src="images/bigdata/venn.png" alt="Venn" width="800">
 	</div>
 </div>
 
