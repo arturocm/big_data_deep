@@ -126,14 +126,15 @@ content_class: flexbox hcenter
 
 <div class="container-fluid">
 <div class="col-md-4">
- Identificar patrones equivocándose lo menor posible.
- <P style="page-break-before: always">
 </div>
 	<div class="col-md-4">
 		<img class="img-responsive" src="images/bigdata/ml1.png" alt="ML1" width="400">
 	</div>
 </div>
 
+<aside class="note"> <section>
+	<p> Identificar patrones equivocándose lo menor posible.</p>
+</section></aside>
 ---
 title: Como lo logra?
 content_class: flexbox hcenter
@@ -146,6 +147,9 @@ content_class: flexbox hcenter
 	</div>
 </div>
 
+<aside class="note"> <section>
+	<p> Balanceando componentes del error: sesgo + varianza.</p>
+</section></aside>
 ---
 title: Algunos usos de ML - Clasificación
 content_class: flexbox vcenter
@@ -158,6 +162,9 @@ content_class: flexbox vcenter
 	</div>
 </div>
 
+<aside class="note"> <section>
+	<p>Clasificación: Partir el espacio de datos en N categorías con funciones.</p>
+</section></aside>
 ---
 title: Algunos usos de ML - Regresion
 content_class: flexbox vcenter
@@ -170,6 +177,9 @@ content_class: flexbox vcenter
 	</div>
 </div>
 
+<aside class="note"> <section>
+	<p>Regresion: Función que se ajuste al espacio de datos.</p>
+</section></aside>
 ---
 title: Algunos usos de ML - Clustering
 content_class: flexbox vcenter
@@ -182,6 +192,71 @@ content_class: flexbox vcenter
 	</div>
 </div>
 
+<aside class="note"> <section>
+ <p>Clustering: Descubrimiento de grupos emergentes (No Supervisado)</p>
+</section></aside>
+---
+title: Ejemplos
+subtitle: Que se ha hecho en el mundo real!
+class: segue dataday nobackground
+---
+title: Ejemplos
+subtitle: Importante Financiera Mexicana
+build_lists: true
+
+- Conversión de cliente de nómina a TC en 29%
+- $2.7mmdp en revenue al año desde 2010
+- Cómo lo hizo?
+- Clasificación
+---
+title: Ejemplos
+subtitle: UPS
+build_lists: true
+
+- Ahorro de combustible haciendo que camiones sólo den vuelta a la derecha
+- Ahorro de $47mdd al año
+- Cómo lo hizo?
+- Diseño de experimentos!
+---
+title: Ejemplos
+subtitle: Importante Telco Mexicana
+build_lists: true
+
+- Identifiación de usuarios consumiendo $7K MXN semanales de tiempo aire prepago
+- Creación de producto de crédito de tiempo aire de hasta $2K
+- $4mmdp al año en revenue
+- Cómo lo hizo?
+- Clustering!
+---
+title: Ejemplos
+subtitle: Western Union
+build_lists: true
+
+- Prevención de fraude en remesas en automático y personalizado
+- $32mdd en ahorro operativo en 2012. $21mdd son de transacciones detenidas al momento.
+- Cómo lo hizo?
+- Clasificación
+- Share and reaply algoritmos de spam
+---
+title: Ejemplos
+subtitle: Importante Grupo Editoreal
+build_lists: true
+
+- Bajar bounce rate y manteer al visitante en sitios de las marcas del grupo
+- Aumentar ad impressions
+- Cómo lo hizo?
+- Recommender System
+---
+title: Ejemplos
+subtitle: Cuando no todo sale bien...
+build_lists: true
+
+- Telco Mexicana: productos crediticios para posibles criminale
+- Google: Google image classifier
+- Microsoft: Twiter racista
+- Google: Google Flu Trends
+- 2008 Financial Crisis
+- Trump: Cambridge Analytica
 ---
 title: Big Data Analytics - Deep Dive
 subtitle: Q&A
